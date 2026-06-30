@@ -1,0 +1,12 @@
+{
+  "name": "HM Blogs",
+  "short_name": "HM Blogs",
+  "description": "Read, Learn, Inspire — a modern blogging platform.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#2563EB",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
