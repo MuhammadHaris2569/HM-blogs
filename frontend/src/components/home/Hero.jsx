@@ -24,7 +24,7 @@ const Hero = () => {
           transition={{ delay: 0.1 }}
           className="mt-6 text-4xl font-extrabold leading-tight tracking-tight sm:text-5xl lg:text-6xl"
         >
-          Read. Write. <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">Inspire.</span>
+          Read.Write. <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">Inspire.</span>
         </motion.h1>
 
         <motion.p
