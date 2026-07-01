@@ -24,7 +24,7 @@ const Hero = () => {
           transition={{ delay: 0.1 }}
           className="mt-6 text-4xl font-extrabold leading-tight tracking-tight sm:text-5xl lg:text-6xl"
         >
-          Read. Learn. <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">Inspire.</span>
+          Read. Write. <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">Inspire.</span>
         </motion.h1>
 
         <motion.p
@@ -33,8 +33,8 @@ const Hero = () => {
           transition={{ delay: 0.2 }}
           className="mx-auto mt-5 max-w-2xl text-lg text-slate-500 dark:text-slate-400"
         >
-          Discover thoughtful articles on technology, design, business, and life — written by a
-          community of curious minds.
+          Discover thoughtful articles on technology,
+           design, business, and life, written by a community of curious minds.
         </motion.p>
 
         <motion.div
